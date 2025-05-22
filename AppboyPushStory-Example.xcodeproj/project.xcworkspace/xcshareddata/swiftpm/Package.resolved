@@ -1,0 +1,24 @@
+{
+  "originHash" : "c198f66b09158dd187a95f01ab5e7051a43d2af77ac99fcda78d8b022cfd4fec",
+  "pins" : [
+    {
+      "identity" : "appboy-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Appboy/appboy-ios-sdk",
+      "state" : {
+        "revision" : "2afdd54b17189e8e37c491eb3f400f72be877017",
+        "version" : "4.7.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "cac9a55a3ae92478a2c95042dcc8d9695d2129ca",
+        "version" : "5.21.0"
+      }
+    }
+  ],
+  "version" : 3
+}
